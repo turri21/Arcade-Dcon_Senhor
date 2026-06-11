@@ -1,8 +1,3 @@
--=(DCon_Senhor notes)=-
-
-Tested: Working Video 720p, 1080p & Sound.
-
-___
 # Arcade-DCon_MiSTer
 
 FPGA core for **D-Con** (Success, 1992) targeting the
